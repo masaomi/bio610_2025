@@ -16,7 +16,7 @@
 
 **26 Nov.** | &nbsp; 
 -------|-------
-9.00-12.00  | **Genomics and machine learning, lecture and exercise** (Jun)
+9.00-12.00  | **Genomics and machine learning, lecture and exercise** [Link]() (Jun)
 13.00-16.00 | **General discussion**
 
 
